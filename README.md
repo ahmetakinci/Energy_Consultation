@@ -1,9 +1,9 @@
 ﻿# Energy_Consultation
  ## Project Development LifeCycle 
 
-###●	Proje adi
+###  ●	Proje adi
             *Binalarda Enerji Verimliliği: Binaların Yapısal Kabuk Bileşenlerinin Analizi ve Öneri     Sisteminin Geliştirilmesi
-###●	Proje Amaci
+###  ●	Proje Amaci
 Binaların dış kabuklarındaki malzemelerin yapısına göre yalıtım masrafını hesaplayıp ne kadar zamanda bu masrafı enerji tasarrufu ile gidereceğine yönelik bilgi veren ve öneri yapan cloud projesi.
 ###●	Proje Ciktisi
 *1.faz : Kullanıcıdan yalıtım maliyeti hakkında bilgi alması için alınan girdiler
